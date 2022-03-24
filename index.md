@@ -13,8 +13,8 @@ His research interests span software engineering and machine learning, including
 
 
 ## Publication
-- __Chi Zhang__, Lingyun Situ, and Linzhang Wang. Research Progress on Security Defect Detection of IoT Firmware. Journal of Cyber Security. 6.3 (2021): 141-158. [PDF](http://jcs.iie.ac.cn/ch/reader/view_abstract.aspx?file_no=20210309&flag=1)
-- __Chi Zhang__, Yu Wang, and Linzhang Wang. Firmware Fuzzing: The State of the Art. Internetware 2020. In 12th Asia-Pacific Symposium on Internetware (pp. 110-115). [PDF](https://dl.acm.org/doi/pdf/10.1145/3457913.3457934)
+- __Chi Zhang__, Lingyun Situ, and Linzhang Wang. Research Progress on Security Defect Detection of IoT Firmware. Journal of Cyber Security. 6.3 (2021): 141-158. \[[PDF](http://jcs.iie.ac.cn/ch/reader/view_abstract.aspx?file_no=20210309&flag=1)\]
+- __Chi Zhang__, Yu Wang, and Linzhang Wang. Firmware Fuzzing: The State of the Art. Internetware 2020. In 12th Asia-Pacific Symposium on Internetware (pp. 110-115). \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3457913.3457934)\]
 
 
 ## Awards
