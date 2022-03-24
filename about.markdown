@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Chi Zhang is a PhD student in the Software Engineering Group(SEG) at Nanjing University, China. He is advised by Prof. Linzhang Wang. He received a B.S. in Computer Science and a B.S. in Economics both from Sichuan University in 2018.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
