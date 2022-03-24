@@ -12,9 +12,9 @@ highlighter: rouge
 markdown: kramdown
 
 # Pagination
-# paginate: 4
-# permalink: /blog/:year/:title/
-# paginate_path: /blog/page:num/
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
 
 # Social media links in footer
 facebook: "#"
@@ -41,11 +41,11 @@ compress_html:
   profile: false
   startings: []
 
-#collection
-# collections:
-#   projects:
-#     output: true
-#     permalink: /projects/:path/
+# collection
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 sass:
   sass_dir: /assets/css/_sass
