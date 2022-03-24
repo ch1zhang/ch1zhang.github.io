@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
+title: Chi Zhang
 description: subtitle | affiliations | motto
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: zhangchi_seg@smail.nju.edu.cn
 
 
 highlighter: rouge
