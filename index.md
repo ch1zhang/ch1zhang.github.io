@@ -7,8 +7,6 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Chi Zhang is a PhD student in the Software Engineering Group at Nanjing University, advised by Prof. Linzhang Wang. He received a B.S. in Computer Science and a B.S. in Economics both from Sichuan University in 2018.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+His research interests span software engineering and machine learning, including static analysis, fuzzing, symbolic execution, and the combination of software engineering with artificial intelligence, focusing on detecting the defects in software. His current research work focuses on extracting critical information from software source code to help developers build better software.
