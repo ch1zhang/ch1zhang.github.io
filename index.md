@@ -9,7 +9,7 @@ published: true
 
 Chi Zhang is a PhD student in the [Software Engineering Group](https://seg.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/EN/main.htm), advised by Prof. Linzhang Wang. He received a B.S. in Computer Science and a B.S. in Economics both from [Sichuan University](https://en.scu.edu.cn/) in 2018. From 2022.08 to 2023.08, Chi Zhang studied in the [Trustworthy Engineering of Software Technologies (TEST) Lab](https://nus-test.github.io/) at the [National University of Singapore](https://www.nus.edu.sg/), supervised by [Manuel Rigger](https://www.manuelrigger.at/).
 
-His research interests span software engineering and machine learning, including static analysis, fuzzing, symbolic execution, and the combination of software engineering with artificial intelligence, focusing on detecting the defects in software. His current research work focuses on extracting critical information from software source code to help developers build better software.
+His research interests span software engineering and machine learning, including static analysis, fuzzing, symbolic execution, and the combination of software engineering with artificial intelligence, focusing on detecting the bugs in software. 
 
 
 ## Publication
