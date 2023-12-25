@@ -13,6 +13,8 @@ His research interests span software engineering and machine learning, including
 
 
 ## Publication
+- __Chi Zhang__, Linzhang Wang, Manuel Rigger. Finding Cross-rule Optimization Bugs in Datalog Engines. The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (2024).
+- Qian Chen, Chenyang Yu, Ruyan Liu, __Chi Zhang__, Yu Wang, Ke Wang, Ting Su, Linzhang Wang. Evaluating the effectiveness of Deep Learning Models for Foundational Program Analysis Tasks. The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (2024).
 - Lingyun Situ, __Chi Zhang__, Le Guan, Zhiqiang Zuo, Linzhang Wang, Xuandong Li, Peng Liu, Jin Shi. Physical Devices-Agnostic Hybrid Fuzzing of IoT Firmware. IEEE Internet of Things Journal. (2023) \[[PDF](https://ieeexplore.ieee.org/abstract/document/10214030)\]
 - __Chi Zhang__, Lingyun Situ, and Linzhang Wang. Research Progress on Security Defect Detection of IoT Firmware. Journal of Cyber Security. 6.3 (2021): 141-158. \[[PDF](http://jcs.iie.ac.cn/ch/reader/view_abstract.aspx?file_no=20210309&flag=1)\]
 - __Chi Zhang__, Yu Wang, and Linzhang Wang. Firmware Fuzzing: The State of the Art. Internetware 2020. In 12th Asia-Pacific Symposium on Internetware (pp. 110-115). \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3457913.3457934)\]
