@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Chi Zhang"
   pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "PhD student"
+  location         : "China"
   employer         : "Nanjing University"
   uri              : # URL
   email            : "zhangchi_seg at smail dot nju dot edu dot cn" 
