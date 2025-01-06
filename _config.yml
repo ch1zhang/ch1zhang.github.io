@@ -22,11 +22,11 @@ repository               : "ch1zhang/ch1zhang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Chi Zhang"
+  name             : # "Chi Zhang"
   pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Nanjing University"
   uri              : # URL
   email            : "zhangchi_seg at smail dot nju dot edu dot cn" 
 
