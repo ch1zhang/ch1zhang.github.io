@@ -6,7 +6,7 @@ subtitle: Postdoctoral Researcher, <a href='https://www.tsinghua.edu.cn/en/'>Tsi
 
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
   image_circular: false
   more_info: >
     <p>Software System Security Assurance Group — WingTecher Lab</p>
