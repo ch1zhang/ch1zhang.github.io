@@ -1,0 +1,44 @@
+cv:
+  name: Chi Zhang
+  label: Postdoctoral Researcher
+  email: chi-zhang@mail.tsinghua.edu.cn
+  location: Beijing, China
+  image: ""
+  summary: Postdoctoral Researcher at Tsinghua University working on software engineering, static analysis, fuzzing, and AI for SE.
+
+  social_networks:
+    - network: GitHub
+      username: ch1zhang
+    - network: Google Scholar
+      url: https://scholar.google.com/citations?user=dGv4EHAAAAAJ
+
+  sections:
+    Education:
+      - institution: Nanjing University
+        location: Nanjing, China
+        area: Software Engineering
+        studyType: Ph.D.
+        start_date: 2019
+        end_date: 2025
+
+      - institution: Sichuan University
+        location: Chengdu, China
+        area: Computer Science & Economics (Dual Degree)
+        studyType: B.S.
+        start_date: 2014
+        end_date: 2018
+
+    Experience:
+      - company: Tsinghua University
+        position: Postdoctoral Researcher
+        location: Beijing, China
+        start_date: 2025
+        end_date: present
+        summary: Software System Security Assurance Group, supervised by Associate Professor Yu Jiang.
+
+      - company: National University of Singapore
+        position: Visiting Researcher
+        location: Singapore
+        start_date: 2022-08
+        end_date: 2023-08
+        summary: Trustworthy Engineering of Software Technologies (TEST) Lab, supervised by Manuel Rigger.

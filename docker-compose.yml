@@ -1,0 +1,13 @@
+# this file uses prebuilt image in dockerhub
+services:
+  jekyll:
+    build: .
+    ports:
+      - 8080:8080
+      - 35729:35729
+    volumes:
+      - .:/srv/jekyll
+    environment:
+      - JEKYLL_ENV=development
+    command: >
+      bash -c "bundle install && bundle exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --force_polling"
