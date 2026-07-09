@@ -4,7 +4,8 @@ cv:
   email: chi-zhang@mail.tsinghua.edu.cn
   location: Beijing, China
   image: ""
-  summary: Postdoctoral Researcher at Tsinghua University working on software engineering, static analysis, fuzzing, and AI for SE.
+  summary: >
+    My research focuses on defect detection in database management systems (DBMSs), with an emphasis on testing logical correctness, evaluating performance bottlenecks, and detecting privilege-security issues. I design novel testing methodologies and build supporting toolsets. Along this research direction, I have published 10 papers in CCF-A ranked journals and conferences, including 3 as first author and 1 as corresponding author. My tools and research have detected and reported over 400 previously unknown zero-day defects in Chinese DBMSs such as GaussDB, TiDB, and Dameng, as well as widely used international DBMSs including Oracle, PostgreSQL, MySQL, and SQLite3.
 
   social_networks:
     - network: GitHub
@@ -16,25 +17,25 @@ cv:
     Education:
       - institution: Nanjing University
         location: Nanjing, China
-        area: Software Engineering
+        area: Computer Science, Software Engineering Group, supervised by Professor Linzhang Wang.
         studyType: Ph.D.
-        start_date: 2019
-        end_date: 2025
+        start_date: 2018-09
+        end_date: 2025-03
 
       - institution: Sichuan University
         location: Chengdu, China
         area: Computer Science & Economics (Dual Degree)
         studyType: B.S.
-        start_date: 2014
-        end_date: 2018
+        start_date: 2014-09
+        end_date: 2018-06
 
     Experience:
       - company: Tsinghua University
         position: Postdoctoral Researcher
         location: Beijing, China
-        start_date: 2025
+        start_date: 2025-04
         end_date: present
-        summary: Software System Security Assurance Group, supervised by Associate Professor Yu Jiang.
+        summary: Software System Security Assurance Group, supervised by Professor Yu Jiang.
 
       - company: National University of Singapore
         position: Visiting Researcher
