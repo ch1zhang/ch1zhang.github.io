@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: Postdoctoral Researcher, <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>
 

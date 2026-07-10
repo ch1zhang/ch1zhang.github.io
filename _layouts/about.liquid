@@ -59,10 +59,43 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
+
+    <!-- Service -->
+    <h2>Service</h2>
+    <ul>
+      <li>
+        <strong>Program Committee</strong>
+        <ul>
+          <li>ISSTA AEC 2026</li>
+          <li>ASE AEC 2026</li>
+          <li>PLDI AEC 2024, 2025</li>
+          <li>SIGMOD AEC 2025</li>
+          <li>ChinaSys 2025</li>
+        </ul>
+      </li>
+      <li>
+        <strong>Journal Reviewer</strong>
+        <ul>
+          <li>Empirical Software Engineering</li>
+        </ul>
+      </li>
+    </ul>
+
+    <!-- Teaching -->
+    <h2>Teaching</h2>
+    <ul>
+      <li>
+        <strong>Teaching Assistant</strong>
+        <ul>
+          <li>Nanjing University, Advanced Programming, Fall 2023</li>
+          <li>Nanjing University, Software Engineering, Spring 2020, Fall 2018</li>
+        </ul>
+      </li>
+    </ul>
 
     <!-- Social -->
     {% if page.social %}
